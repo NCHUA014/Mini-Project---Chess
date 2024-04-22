@@ -1,6 +1,10 @@
 Subject of project:
 Using a dataset of 20000 records of online chess game
 
+Introduction:
+- csv file: games.csv
+- reading of file, exploring columns
+
 Things that were done in the project file:
 - Cleaning of column titles
 - Changing Increment code format to time control
